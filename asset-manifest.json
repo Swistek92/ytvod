@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ytvod/static/css/main.f4d9309c.chunk.css",
+    "main.js": "/ytvod/static/js/main.21151748.chunk.js",
+    "main.js.map": "/ytvod/static/js/main.21151748.chunk.js.map",
+    "runtime-main.js": "/ytvod/static/js/runtime-main.169a512a.js",
+    "runtime-main.js.map": "/ytvod/static/js/runtime-main.169a512a.js.map",
+    "static/js/2.7c0a3593.chunk.js": "/ytvod/static/js/2.7c0a3593.chunk.js",
+    "static/js/2.7c0a3593.chunk.js.map": "/ytvod/static/js/2.7c0a3593.chunk.js.map",
+    "index.html": "/ytvod/index.html",
+    "static/css/main.f4d9309c.chunk.css.map": "/ytvod/static/css/main.f4d9309c.chunk.css.map",
+    "static/js/2.7c0a3593.chunk.js.LICENSE.txt": "/ytvod/static/js/2.7c0a3593.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.169a512a.js",
+    "static/js/2.7c0a3593.chunk.js",
+    "static/css/main.f4d9309c.chunk.css",
+    "static/js/main.21151748.chunk.js"
+  ]
+}
